@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nguyen Ngoc Yen Nga
 
-- 🌱 I’m currently learning **Machine Learning Engineering for Production (MLOps)** and **Arduino**
+- 🌱 I’m currently learning **Machine Learning Engineering for Production (MLOps)**
 
 - 👨‍💻 All of my projects (with demo photos) are available at [https://nguyenngocyennga.animaapp.io/](https://nguyenngocyennga.animaapp.io/)
 
