@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Engineering for Production (MLOps)** and **Arduino**
 
-- 👨‍💻 All of my projects are available at [https://nguyenngocyennga.animaapp.io/](https://nguyenngocyennga.animaapp.io/)
+- 👨‍💻 All of my projects (with demo photos) are available at [https://nguyenngocyennga.animaapp.io/](https://nguyenngocyennga.animaapp.io/)
 
 - ⚡ Fun fact: I can write backwards with ease!
 
