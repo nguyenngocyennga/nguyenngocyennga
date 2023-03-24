@@ -4,7 +4,9 @@
 
 - 👨‍💻 All of my projects (with demo photos) are available at [https://nguyenngocyennga.animaapp.io/](https://nguyenngocyennga.animaapp.io/)
 
-- 💻 My completed Codewars challenges: https://github.com/nganguyenny/mischievous-python/blob/master/Codewar.md
+- ⚡️ My completed Codewars challenges: https://github.com/nganguyenny/mischievous-python/blob/master/Codewar.md
+
+- 💻 My journey of learning Python from scratch: https://github.com/nganguyenny/mischievous-python
 
 
 ### Certificates
