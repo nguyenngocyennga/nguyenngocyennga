@@ -4,7 +4,8 @@
 
 - 👨‍💻 All of my projects (with demo photos) are available at [https://nguyenngocyennga.animaapp.io/](https://nguyenngocyennga.animaapp.io/)
 
-- ⚡ Fun fact: I can write backwards with ease!
+- 💻 My completed Codewars challenges: https://github.com/nganguyenny/mischievous-python/blob/master/Codewar.md
+
 
 ### Certificates
 - [Data Science Math Skills](https://coursera.org/share/923c51aadbaeebfd2af2088daa64a6d5)
