@@ -6,7 +6,7 @@
 
 - ⚡️ My completed Codewars challenges: https://github.com/nganguyenny/mischievous-python/blob/master/Codewar.md
 
-- 💻 My journey of learning Python from scratch: https://github.com/nganguyenny/mischievous-python
+- 💻 My journey of learning Python as a general-purpose programming language: https://github.com/nganguyenny/mischievous-python
 
 
 ### Certificates
