@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning [**CS50's Introduction to Computer Science**](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
-- 👨‍💻 All of my projects (with demo photos/videos) are available at [https://nguyenngocyennga.animaapp.io/](https://nguyenngocyennga.animaapp.io/)
+- 👨‍💻 All of my projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/)
 
 - ⚡️ My completed Codewars challenges: https://github.com/nganguyenny/mischievous-python/blob/master/Codewar.md
 
