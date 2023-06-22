@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nguyen Ngoc Yen Nga
 
-🌱 I’m currently learning [**CS50's Introduction to Computer Science**](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- 🌱 I’m currently learning [**CS50's Introduction to Computer Science**](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 - 👨‍💻 All of my projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/)
 
