@@ -2,10 +2,6 @@
 
 - 👨‍💻 All of my projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/)
 
-- ⚡️ My completed Codewars challenges: https://github.com/nganguyenny/mischievous-python/blob/master/Codewar.md
-
-- 💻 My journey of learning Python as a general-purpose programming language: https://github.com/nganguyenny/mischievous-python
-
 
 ### Certificates
 - [Data Science Math Skills](https://coursera.org/share/923c51aadbaeebfd2af2088daa64a6d5)
@@ -13,6 +9,11 @@
 
 <!-- 
 - 🌱 I’m currently learning [**CS50's Introduction to Computer Science**](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+
+- ⚡️ My completed Codewars challenges: https://github.com/nganguyenny/mischievous-python/blob/master/Codewar.md
+
+- 💻 My journey of learning Python as a general-purpose programming language: https://github.com/nganguyenny/mischievous-python
+
 
 ### Languages and Tools that I'm Learning
 - AI/ML : <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="20" height="20"/> </a> 
