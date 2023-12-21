@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Nguyen Ngoc Yen Nga
 
 - 👨‍💻 All of my projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/)
-- 🧠 I’m currently learning Deep Learning for Healthcare, along with other fun explorations:
+- 🧠 I’m currently learning **Deep Learning for Healthcare**, along with other fun explorations:
 	- Computational Neuroscience
 	- The Brain and Space
   - Vital Signs: Understanding What the Body Is Telling Us
