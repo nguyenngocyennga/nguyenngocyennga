@@ -1,10 +1,7 @@
 ## Hi there 👋, I'm Nguyen Ngoc Yen Nga
 
 - 👨‍💻 All of my projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/)
-- 🧠 I’m currently learning **Deep Learning for Healthcare**, along with other fun explorations:
-	- Computational Neuroscience
-	- The Brain and Space
-  - Vital Signs: Understanding What the Body Is Telling Us
+
 
 ### Certificates
 - [Data Science Math Skills](https://coursera.org/share/923c51aadbaeebfd2af2088daa64a6d5)
@@ -16,6 +13,11 @@
 - ⚡️ My completed Codewars challenges: https://github.com/nganguyenny/mischievous-python/blob/master/Codewar.md
 
 - 💻 My journey of learning Python as a general-purpose programming language: https://github.com/nganguyenny/mischievous-python
+
+- 🧠 I’m currently learning **Deep Learning for Healthcare**, along with other fun explorations:
+	- Computational Neuroscience
+	- The Brain and Space
+  	- Vital Signs: Understanding What the Body Is Telling Us
 
 
 ### Languages and Tools that I'm Learning
