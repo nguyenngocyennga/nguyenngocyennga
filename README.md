@@ -1,11 +1,12 @@
 ## Hi there 👋, I'm Nguyen Ngoc Yen Nga
-
 - 👨‍💻 All of my projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/)
 
 
 ### Certificates
 - [Data Science Math Skills](https://coursera.org/share/923c51aadbaeebfd2af2088daa64a6d5)
 - [Google Data Analytics Specialization](https://coursera.org/share/ed83fcd26ad737cb84b7e9996f7c4744)
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenngocyennga&show_icons=true&locale=en&layout=compact" alt="nguyenngocyennga" /></p>
 
 <!-- 
 - 🌱 I’m currently learning [**CS50's Introduction to Computer Science**](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
@@ -52,4 +53,3 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> 
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="20" height="20"/> </a>   -->
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nganguyenny&show_icons=true&locale=en&layout=compact" alt="nganguyenny" /></p>
