@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Nguyen Ngoc Yen Nga
-- 👨‍💻 All of my projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/)
+- 👨‍💻 All of my projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/) (last update: Feb 2023)
 
 
 ### Certificates
