@@ -1,4 +1,7 @@
 ## Hi there 👋, I'm Nguyen Ngoc Yen Nga
+
+Please call me Nga (Pronounced: /n y ah/) :) 
+
 - 👨‍💻 All of my projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/) (last update: Feb 2023)
 
 
