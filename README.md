@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Nga
-(Pronounced as /n y ah/)
+## Hi there 👋, I'm Nga Nguyen
+(Pronounced as /n y ah/) ☺️
 
 - 👨‍💻 All of my full-stack projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/)
 
