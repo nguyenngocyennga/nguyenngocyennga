@@ -1,17 +1,16 @@
-## Hi there 👋, I'm Nguyen Ngoc Yen Nga
+## Hi there 👋, I'm Nga
+(Pronounced as /n y ah/)
 
-Please call me Nga (Pronounced: /n y ah/) :) 
-
-- 👨‍💻 All of my projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/) (last update: Feb 2023)
+- 👨‍💻 All of my full-stack projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/)
 
 
 ### Certificates
 - [Data Science Math Skills](https://coursera.org/share/923c51aadbaeebfd2af2088daa64a6d5)
 - [Google Data Analytics Specialization](https://coursera.org/share/ed83fcd26ad737cb84b7e9996f7c4744)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenngocyennga&show_icons=true&locale=en&layout=compact" alt="nguyenngocyennga" /></p>
 
 <!-- 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenngocyennga&show_icons=true&locale=en&layout=compact" alt="nguyenngocyennga" /></p>
 - 🌱 I’m currently learning [**CS50's Introduction to Computer Science**](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 - ⚡️ My completed Codewars challenges: https://github.com/nganguyenny/mischievous-python/blob/master/Codewar.md
