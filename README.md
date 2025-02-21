@@ -1,29 +1,15 @@
-## Hi there 👋, I'm Nga Nguyen
-(Pronounced as /n y ah/) ☺️
+## Hi there 👋, I'm Nga Nguyen (Francisca)
 
 - 👨‍💻 All of my full-stack projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/)
-
 
 ### Certificates
 - [Data Science Math Skills](https://coursera.org/share/923c51aadbaeebfd2af2088daa64a6d5)
 - [Google Data Analytics Specialization](https://coursera.org/share/ed83fcd26ad737cb84b7e9996f7c4744)
 
-
 <!-- 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenngocyennga&show_icons=true&locale=en&layout=compact" alt="nguyenngocyennga" /></p>
-- 🌱 I’m currently learning [**CS50's Introduction to Computer Science**](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
-- ⚡️ My completed Codewars challenges: https://github.com/nganguyenny/mischievous-python/blob/master/Codewar.md
-
-- 💻 My journey of learning Python as a general-purpose programming language: https://github.com/nganguyenny/mischievous-python
-
-- 🧠 I’m currently learning **Deep Learning for Healthcare**, along with other fun explorations:
-	- Computational Neuroscience
-	- The Brain and Space
-  	- Vital Signs: Understanding What the Body Is Telling Us
-
-
-### Languages and Tools that I'm Learning
+### Languages and Tools that I'm learning and improving:
 - AI/ML : <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="20" height="20"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="20" height="20"/> </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="20" height="20"/> </a> 
