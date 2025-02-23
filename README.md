@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Nga Nguyen
+## Hi there 👋, I'm Nga Nguyen Ngoc Yen
 
 - 👨‍💻 All of my full-stack projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/)
 
