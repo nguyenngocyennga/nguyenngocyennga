@@ -1,12 +1,13 @@
-## Hi there 👋, I'm Nga Nguyen Ngoc Yen
+## Hi there 👋, I'm Francisca Nga Nguyen
 
-- 👨‍💻 All of my full-stack projects (with demo photos/videos) are available at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/)
+- 👨‍💻 All of my full-stack projects (with demo photos/videos) are available at [**https://francisca-nga-nguyen.animaapp.io**](https://francisca-nga-nguyen.animaapp.io)
 
+
+<!-- 
 ### Certificates
 - [Data Science Math Skills](https://coursera.org/share/923c51aadbaeebfd2af2088daa64a6d5)
 - [Google Data Analytics Specialization](https://coursera.org/share/ed83fcd26ad737cb84b7e9996f7c4744)
 
-<!-- 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenngocyennga&show_icons=true&locale=en&layout=compact" alt="nguyenngocyennga" /></p>
 
 ### Languages and Tools that I'm learning and improving:
