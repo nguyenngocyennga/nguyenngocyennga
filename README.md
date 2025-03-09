@@ -4,7 +4,7 @@ Aspiring Engineer continuously learning, building, and contributing.
 
 - 👨‍💻 **Full-Stack Projects:** Explore a portfolio of web apps and automation tools built with **Next.js, TypeScript, PostgreSQL, and more** at [**francisca-nga-nguyen.animaapp.io**](https://francisca-nga-nguyen.animaapp.io).
 
-- 🧠 **AI/ML Brain-Computer Interfaces (BCIs) & Neurotech:** Documenting my journey into hybrid BCIs (hBCIs), EEG-ECG integration, and brain-heart dynamics—exploring neurotechnology one experiment at a time at [**https://francisca-nga-nguyen.gitbook.io/bci**](https://francisca-nga-nguyen.gitbook.io/bci). 🚀  
+- 🧠 **AI/ML Brain-Computer Interfaces (BCIs) & Neurotech:** Documenting my journey into hybrid BCIs (hBCIs), EEG-ECG integration, and brain-heart dynamics at [**https://francisca-nga-nguyen.gitbook.io/bci**](https://francisca-nga-nguyen.gitbook.io/bci). 
 
 <!-- 
 ### Certificates
