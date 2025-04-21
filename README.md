@@ -1,10 +1,10 @@
-## Hi there 👋, I'm Francisca Nga Nguyen
+## Hi there 👋, I'm Nguyen Ngoc Yen Nga
 
 Aspiring Engineer continuously learning, building, and contributing.  
 
-- 👨‍💻 **Full-Stack Projects:** Explore a portfolio of web apps and automation tools built with **Next.js, TypeScript, PostgreSQL, and more** at [**francisca-nga-nguyen.animaapp.io**](https://francisca-nga-nguyen.animaapp.io).
+- 👨‍💻 **Full-Stack Projects:** Explore a portfolio of web apps and automation tools built with **Next.js, TypeScript, PostgreSQL, and more** at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/).
 
-- 🧠 **AI/ML Brain-Computer Interfaces (BCIs) & Neurotech:** Documenting my journey into hybrid BCIs (hBCIs), EEG-ECG integration, and brain-heart dynamics at [**https://francisca-nga-nguyen.gitbook.io/bci**](https://francisca-nga-nguyen.gitbook.io/bci). 
+- 🧠 **AI/ML Brain-Computer Interfaces (BCIs) & Neurotech:** Documenting my journey into hybrid BCIs (hBCIs), EEG-ECG integration, and brain-heart dynamics at [**https://nguyenngocyennga.gitbook.io/bci**](https://nguyenngocyennga.gitbook.io/bci). 
 
 <!-- 
 ### Certificates
