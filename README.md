@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Nguyen Ngoc Yen Nga
 
-Aspiring Engineer continuously learning, building, and contributing. Keen eyes on design, with a mind for business and a heart for technology.
+An aspiring engineer continuously learning, building, and contributing. Keen eyes on design, with a mind for business and a heart for technology.
 
 - 👨‍💻 **Full-Stack Projects:** Explore a portfolio of web apps and automation tools built with Next.js, TypeScript, PostgreSQL, and more at [**https://nguyenngocyennga.animaapp.io/**](https://nguyenngocyennga.animaapp.io/).
 
