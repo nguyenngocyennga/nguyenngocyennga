@@ -1,3 +1,4 @@
+<!-- 
 ## Hi there 👋, I'm Nguyen Ngoc Yen Nga
 
 An aspiring engineer continuously learning, building, and contributing. Keen eyes on design, with a mind of business and a heart for technology.
@@ -6,7 +7,7 @@ An aspiring engineer continuously learning, building, and contributing. Keen eye
 
 - 🧠 **AI/ML Brain-Computer Interfaces (BCIs) & Neurotech:** Documenting my journey into hybrid BCIs (hBCIs), EEG-ECG integration, and brain-heart dynamics at [https://nguyenngocyennga.gitbook.io/bci](https://nguyenngocyennga.gitbook.io/bci). 
 
-<!-- 
+
 ### Certificates
 - [Data Science Math Skills](https://coursera.org/share/923c51aadbaeebfd2af2088daa64a6d5)
 - [Google Data Analytics Specialization](https://coursera.org/share/ed83fcd26ad737cb84b7e9996f7c4744)
